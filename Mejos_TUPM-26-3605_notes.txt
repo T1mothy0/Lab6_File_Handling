@@ -1,0 +1,5 @@
+Student: Mejos
+Student ID: TUPM-26-3605
+Seed digit: 5
+ID Sum: 22
+Verification Value: 115

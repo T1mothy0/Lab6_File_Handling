@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Mejos
+Student ID: TUPM-26-3605
+Seed Digit: 5
+ID Sum: 22
+Verification Value: 115
+Dataset Sample Size: 72
+Valid Records: 72
+Average Global Active Power: 4.044
+JSON File: Mejos_TUPM-26-3605_record.json
+Backup File: Mejos_TUPM-26-3605_record.csv
