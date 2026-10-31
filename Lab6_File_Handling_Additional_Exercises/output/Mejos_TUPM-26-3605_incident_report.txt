@@ -1,0 +1,16 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Target Year: 2020
+Incidents: 315
+Count per Attack Type: {'Malware': 37, 'Phishing': 61, 'Man-in-the-Middle': 47, 'DDoS': 56, 'SQL Injection': 55, 'Ransomware': 59}
+Total Financial Loss (USD millions): 15767.95
+Average Financial Loss (USD millions): 50.06
+Five Costliest Incidents:
+  Brazil | Ransomware | 99.9
+  Japan | DDoS | 99.83
+  USA | DDoS | 99.81
+  India | SQL Injection | 99.72
+  USA | Phishing | 99.64
+Filtered CSV: Mejos_TUPM-26-3605_incidents_filtered.csv
+JSON Summary: Mejos_TUPM-26-3605_incidents_summary.json
+Backup File: Mejos_TUPM-26-3605_incidents_summary.json

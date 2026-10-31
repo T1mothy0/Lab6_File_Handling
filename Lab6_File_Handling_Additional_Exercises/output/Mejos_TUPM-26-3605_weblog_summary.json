@@ -1,0 +1,32 @@
+{
+    "records_processed": 1022,
+    "invalid_records": 0,
+    "target_class": "3xx",
+    "records_in_class": 165,
+    "count_per_status": {
+        "302": 144,
+        "304": 21
+    },
+    "top_five_urls": [
+        [
+            46,
+            "GET / HTTP/1.1"
+        ],
+        [
+            35,
+            "POST /process.php HTTP/1.1"
+        ],
+        [
+            34,
+            "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1"
+        ],
+        [
+            9,
+            "GET /home.php HTTP/1.1"
+        ],
+        [
+            7,
+            "POST /action.php HTTP/1.1"
+        ]
+    ]
+}

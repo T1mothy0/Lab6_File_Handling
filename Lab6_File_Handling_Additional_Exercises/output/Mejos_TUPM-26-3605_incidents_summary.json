@@ -1,0 +1,46 @@
+{
+    "target_year": 2020,
+    "incidents_in_target_year": 315,
+    "count_per_attack_type": {
+        "Malware": 37,
+        "Phishing": 61,
+        "Man-in-the-Middle": 47,
+        "DDoS": 56,
+        "SQL Injection": 55,
+        "Ransomware": 59
+    },
+    "total_financial_loss": 15767.95,
+    "average_financial_loss": 50.06,
+    "five_costliest_incidents": [
+        {
+            "country": "Brazil",
+            "attack_type": "Ransomware",
+            "target_industry": "Banking",
+            "financial_loss": 99.9
+        },
+        {
+            "country": "Japan",
+            "attack_type": "DDoS",
+            "target_industry": "Education",
+            "financial_loss": 99.83
+        },
+        {
+            "country": "USA",
+            "attack_type": "DDoS",
+            "target_industry": "Banking",
+            "financial_loss": 99.81
+        },
+        {
+            "country": "India",
+            "attack_type": "SQL Injection",
+            "target_industry": "Government",
+            "financial_loss": 99.72
+        },
+        {
+            "country": "USA",
+            "attack_type": "Phishing",
+            "target_industry": "Retail",
+            "financial_loss": 99.64
+        }
+    ]
+}
